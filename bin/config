@@ -1,0 +1,10 @@
+MaximumRowsCountInPage = 200
+NodeSize = 15
+
+MaximumRowsCountinPage as the name 
+indicates specifies the maximum number 
+of rows in a page.
+ 
+NodeSize specifies the count of keys that  
+could be stored in a single Node in a 
+B+ tree or in an R tree. 

@@ -1,0 +1,4 @@
+Table Name,Column Name,Column Type,Clustering Key,Max Rows, Indexed
+Student,gpa,java.lang.double,False,20,False
+Student,name,java.lang.String,False,20,True
+Student,id,java.lang.Integer,True,20,False
